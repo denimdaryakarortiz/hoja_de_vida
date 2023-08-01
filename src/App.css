@@ -1,0 +1,164 @@
+body{
+  background-color:#FFF8D6;
+  width: 100vw;
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+  align-content: center;
+  font-size: large;
+  font-weight: bold; 
+  font-style: italic;
+  font: bold 12px/2.5 arial, sans-serif;
+  
+  }
+  
+  .denim_img{
+    height: 250px;
+    width: 180px;
+    border-radius: 40px;
+    margin: 50px;
+  }
+  
+  .header{
+    background-color: #F7E1AE;
+    width: 70vw;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+    text-align: left;
+    color:black;
+    border-radius: 40px;
+    margin-left: 50px;
+    margin-right: 50PX;
+    margin-top: 50px;
+  
+  }
+  
+  .academic{
+    background-color: #f1e59a;
+    width: 35vw;
+    display: flex;
+    flex-direction: row;
+    margin-left: 10px;
+    margin-right: 50px;
+    margin-top: 10px;
+    align-items: center;
+    align-content: center;
+    justify-content: left;
+    text-align: left;
+    color:black;
+   
+  }
+  
+  .experience{
+    background-color: #A4D0A4;
+    width: 70vw;
+    display: flex;
+    margin-left: 50px;
+    margin-right: 50PX;
+    margin-top: 10px;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    color:black;
+
+  }
+  
+  .interest{
+    background-color :#617A55;
+    width: 34vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    text-align: central;
+    margin-left: 50px;
+    margin-right: 10PX;
+    margin-top: 10px;
+    color:black;
+  }
+
+
+  
+  .languages{
+    background-color:#CCD5AE;
+    width: 35vw;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    margin-left: 10px;
+    margin-right: 50PX;
+    margin-top: 10px;
+    color:black;
+  }
+  
+  .profile{
+    
+      background-color: #E9EDC9;
+      width: 70vw;
+      display: flex;
+      flex-direction: row;
+      margin-left: 50px;
+      margin-right: 50PX;
+      margin-top: 10px;
+      align-items: center;
+      align-content: center;
+      justify-content: center;
+      text-align: center;
+      flex-direction: column;
+      color:black;
+    }
+    
+  
+  
+  .skills{
+    background-color:#f1e59a;
+    width: 34vw;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    text-align: left;
+    flex-direction: row;;
+    margin-left: 50px;
+    margin-right:   10px;
+    margin-top:10px ;
+    color:black;
+  }
+  
+  .social{
+    background-color: #f1e59a;
+    width: 69vw;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top:10px ;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    padding: 5px 10px;
+    color:black;
+  }
+
+
+.container-skills-academic{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.container-interest-lenguages{
+  display: flex;
+  flex-direction: row;
+  width: 100%
+
+}
